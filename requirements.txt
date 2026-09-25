@@ -1,0 +1,15 @@
+ipykernel
+neo4j
+pandas
+networkx
+matplotlib
+py2neo
+python-dotenv
+seaborn
+scikit-learn
+nltk
+#gensim 
+#tensorflow 
+#keras
+pyvis
+streamlit
